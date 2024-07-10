@@ -1,0 +1,7 @@
+*.key
+*.pem
+/.vscode
+/.idea
+*.out
+/main
+/gocert-clone
