@@ -17,5 +17,6 @@ func main() {
 		fmt.Printf("cannot clone certs from %s: %v\n", addr, err)
 		os.Exit(1)
 	}
+
 	fmt.Println("Successfully cloned certs from:", addr)
 }
